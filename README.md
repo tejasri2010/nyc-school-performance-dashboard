@@ -69,7 +69,6 @@ A line chart showing how average metric values vary across schools with differen
 - NYC OpenData
 
 ---
----
 
 ## Data Source
 
